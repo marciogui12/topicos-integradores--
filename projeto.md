@@ -31,15 +31,15 @@ O Spot Crime, o mapa criminal mais visitado nos EUA, agora fornece um aplicativo
 
 # Casos de uso
 
- - Mapa mostrando áreas de risco
- - Gerador de senhas
- - Guarda login e senhas
- - Mostra locais com policiamento
- - Lista de ocorrências
- - Filtrar ocorrências por data
- - Estatística de crimes
- - Cadastro de ocorrências por usuários
- - Notificações quando o usuário está próximo de uma área de risco
- - Caso o usuário esteja em uma área de risco, orientar seguir a áreas seguras
- - Informar leis
+- Eu como dono do produto, gostaria de poder acessar um mapa para mostrar as áreas de risco.
+ - Eu como dono do produto, gostaria que os usuários pudessem acessar um gerador de senhas, para ter senhas mais seguras.
+ - Eu como dono do produto, gostaria que pudesse guardar login e senhas, para o usuário poder ser autenticado.
+ - Eu como dono do produto, gostaria de acessar um mapa para mostra locais com policiamento
+ - Eu como dono do produto, gostaria que o usuário pudesse acessar uma Lista de ocorrências
+ - Eu como dono do produto, gostaria que o usuário pudesse filtrar ocorrências por data, para poder encontrar o registro desejado.
+ - Eu como dono do produto, gostaria que os usuários pudessem ter acesso a estatística de crimes para ter mais informações dos possíveis crimes que ele estaria exposto.
+ - Eu como dono do produto, gostaria que o aplicativo tivesse cadastro de ocorrências por usuários para análise de dados. 
+- Eu como dono do produto, gostaria que o aplicativo tivesse cadastro de dispositivos, para melhor controle e bloquei dos mesmos. 
+ - Eu como dono do produto, gostaria que Notificações quando o usuário está próximo de uma área de risco caso o usuário esteja em uma área de risco, orientar seguir a áreas seguras. 
+ - Eu como dono do produto, gostaria que o aplicativo tenha um recurso que auxilie o usuário, caso ele precise passar por uma área de risco, ele sugeriria uma rota alternativa.
 
